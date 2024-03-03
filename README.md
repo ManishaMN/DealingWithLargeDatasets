@@ -5,4 +5,5 @@ Using Pandas(Tips)
 - looking at first few rows to to get the datatype of columns and passing column datatypes while loading large datasets, to save processing time.
 - loading data in chunks using chunksize option in pandas and performing operations on those chunks using functions.
 
-  [Using Pandas] (https://kvirajdatt.medium.com/pandas-tips-to-deal-with-huge-datasets-f6a012d4e953)
+  <a href="https://kvirajdatt.medium.com/pandas-tips-to-deal-with-huge-datasets-f6a012d4e953">Using Pandas</a>
+
